@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @toocka
-- 👀 I’m interested in making shit landings  
-- 🌱 I’m currently learning python, mongodb, figma
+- 👋 sup, i’m @moneyworldstar
+- 👀 i’m interested in making something cringe on python for my high school
+- 🌱 I’m currently learning python, mongodb, figma, aiogram.
 - 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me: @moneyworldstar tg 
+- 📫 How to reach me: @moneyworldstar telegram.
+
+=СТРУЯЧИМ=
 
 <!---
 toocka/toocka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
