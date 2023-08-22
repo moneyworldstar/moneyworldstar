@@ -1,4 +1,4 @@
-![image](https://github.com/moneyworldstar/moneyworldstar/assets/90852312/c02f40de-2b02-4614-8b2b-41ebb7e009f1)
+![Untitled-1](https://github.com/moneyworldstar/moneyworldstar/assets/90852312/4f655298-2c83-48a2-9238-6400ce017f9d)
 
 
 <!---
