@@ -1,10 +1,4 @@
-![E072D64B-2F15-4295-804C-51886D2136ED](https://github.com/moneyworldstar/moneyworldstar/assets/90852312/aa97ce22-7324-43a1-a40e-9446e3edd776) OS: macOS 10.14/Windows 10 20H1
-Uptime: 17 years
-Resolution: 2560x1600 / 1920x1080
-CPU: Intel Core i5-4278U / i5-4690k @ 3.0 GHz
-GPU: Intel Iris Xe / GTX 1660 Super
-Memory: 0MiB / 16384 MiB
-Birthday: 14.06
+![image](https://github.com/moneyworldstar/moneyworldstar/assets/90852312/c02f40de-2b02-4614-8b2b-41ebb7e009f1)
 
 
 <!---
