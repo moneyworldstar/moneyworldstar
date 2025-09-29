@@ -1,5 +1,7 @@
-![Untitled-1](https://github.com/moneyworldstar/moneyworldstar/assets/90852312/4f655298-2c83-48a2-9238-6400ce017f9d)
-
+rest of you pussies pretending
+whenever you flexin'
+devil told me to play 21 questions
+so club 27 new member is gettin'
 
 <!---
 toocka/toocka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
